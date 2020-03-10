@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d4f6752-86ac-4191-b1b5-23b5c5780923" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/autama_robot$manage.coverage" NAME="manage Coverage Results" MODIFIED="1583382046825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autama_robot$convert.coverage" NAME="convert Coverage Results" MODIFIED="1583304557252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="autama_robot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YpcpqlSpTcSmJ0TtnLfv3fqFKt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="db2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media/avatar" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.autama_robot">
+    <configuration name="convert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autama_robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python">
+      <module name="autama_robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 127.0.0.1:8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="autama_robot" type="Python.DjangoServer" factoryName="Django server">
+      <module name="autama_robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="autama_robot.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="5000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.autama_robot" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.convert" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.convert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d4f6752-86ac-4191-b1b5-23b5c5780923" name="Default Changelist" comment="" />
+      <created>1583302812632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583302812632</updated>
+      <workItem from="1583643174458" duration="62000" />
+      <workItem from="1583659428901" duration="1300000" />
+      <workItem from="1583787516084" duration="4298000" />
+      <workItem from="1583796514604" duration="1000" />
+      <workItem from="1583805261097" duration="39000" />
+      <workItem from="1583805361084" duration="3118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="126" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583805420680">
+      <screen x="57" y="23" width="1223" height="777" />
+    </state>
+    <state x="124" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/55.23.1225.777@55.23.1225.777" timestamp="1583660196674" />
+    <state x="126" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/57.23.1223.777@57.23.1223.777" timestamp="1583805420680" />
+    <state x="349" y="81" key="#manage" timestamp="1583643235521">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="349" y="81" key="#manage/0.0.1280.800@0.0.1280.800" timestamp="1583643235521" />
+    <state width="1181" height="175" key="GridCell.Tab.0.bottom" timestamp="1583867169321">
+      <screen x="57" y="23" width="1223" height="777" />
+    </state>
+    <state width="1181" height="198" key="GridCell.Tab.0.bottom/50.23.1230.777@50.23.1230.777" timestamp="1583795928572" />
+    <state width="1181" height="198" key="GridCell.Tab.0.bottom/52.23.1228.777@52.23.1228.777" timestamp="1583796245710" />
+    <state width="590" height="198" key="GridCell.Tab.0.bottom/55.23.1225.777@55.23.1225.777" timestamp="1583789117940" />
+    <state width="1181" height="175" key="GridCell.Tab.0.bottom/57.23.1223.777@57.23.1223.777" timestamp="1583867169321" />
+    <state width="1181" height="175" key="GridCell.Tab.0.center" timestamp="1583867169320">
+      <screen x="57" y="23" width="1223" height="777" />
+    </state>
+    <state width="1181" height="198" key="GridCell.Tab.0.center/50.23.1230.777@50.23.1230.777" timestamp="1583795928571" />
+    <state width="1181" height="198" key="GridCell.Tab.0.center/52.23.1228.777@52.23.1228.777" timestamp="1583796245709" />
+    <state width="590" height="198" key="GridCell.Tab.0.center/55.23.1225.777@55.23.1225.777" timestamp="1583789117939" />
+    <state width="1181" height="175" key="GridCell.Tab.0.center/57.23.1223.777@57.23.1223.777" timestamp="1583867169320" />
+    <state width="1181" height="175" key="GridCell.Tab.0.left" timestamp="1583867169319">
+      <screen x="57" y="23" width="1223" height="777" />
+    </state>
+    <state width="1181" height="198" key="GridCell.Tab.0.left/50.23.1230.777@50.23.1230.777" timestamp="1583795928570" />
+    <state width="1181" height="198" key="GridCell.Tab.0.left/52.23.1228.777@52.23.1228.777" timestamp="1583796245708" />
+    <state width="590" height="198" key="GridCell.Tab.0.left/55.23.1225.777@55.23.1225.777" timestamp="1583789117938" />
+    <state width="1181" height="175" key="GridCell.Tab.0.left/57.23.1223.777@57.23.1223.777" timestamp="1583867169319" />
+    <state width="1181" height="175" key="GridCell.Tab.0.right" timestamp="1583867169320">
+      <screen x="57" y="23" width="1223" height="777" />
+    </state>
+    <state width="1181" height="198" key="GridCell.Tab.0.right/50.23.1230.777@50.23.1230.777" timestamp="1583795928571" />
+    <state width="1181" height="198" key="GridCell.Tab.0.right/52.23.1228.777@52.23.1228.777" timestamp="1583796245709" />
+    <state width="590" height="198" key="GridCell.Tab.0.right/55.23.1225.777@55.23.1225.777" timestamp="1583789117939" />
+    <state width="1181" height="175" key="GridCell.Tab.0.right/57.23.1223.777@57.23.1223.777" timestamp="1583867169320" />
+    <state x="168" y="50" key="SettingsEditor" timestamp="1583660167431">
+      <screen x="55" y="23" width="1225" height="777" />
+    </state>
+    <state x="168" y="50" key="SettingsEditor/55.23.1225.777@55.23.1225.777" timestamp="1583660167431" />
+    <state x="508" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1583643186634">
+      <screen x="48" y="23" width="1232" height="777" />
+    </state>
+    <state x="508" y="248" key="com.intellij.ide.util.TipDialog/48.23.1232.777@48.23.1232.777" timestamp="1583643186634" />
+    <state x="335" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583793924840">
+      <screen x="50" y="23" width="1230" height="777" />
+    </state>
+    <state x="335" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/50.23.1230.777@50.23.1230.777" timestamp="1583793924840" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="obj.image" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/autama$manage.coverage" NAME="manage Coverage Results" MODIFIED="1583805277656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autama_robot$manage.coverage" NAME="manage Coverage Results" MODIFIED="1583805363288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>obj.image</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
