@@ -73,7 +73,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'autama_robot.wsgi.application'
 
-
+'''
 # Database
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
 
@@ -83,7 +83,17 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+'''
 
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'autama_db_v1',
+        'USER': 'root',
+        'PASSWORD': "191208",
+        'HOST': "127.0.0.1"
+    }
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/2.0/ref/settings/#auth-password-validators

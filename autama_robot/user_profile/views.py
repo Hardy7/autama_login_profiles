@@ -77,7 +77,7 @@ class LoginView(View):
         username = request.POST.get('username')
         password = request.POST.get('password')
         is_remember_me = request.POST.get('is_remember_me')
-        user = authenticate(request,username=username, password=password)
+        user = authenticate(request, username=username, password=password)
         if user is not None:
             if user.is_active:
                 login(request, user)

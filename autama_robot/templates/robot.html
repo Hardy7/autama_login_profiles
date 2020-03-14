@@ -8,7 +8,7 @@
         box-shadow: 10px 10px 5px #888888;
     }
     div.robot > img{
-        height: 380px;
+        height: 310px;
         width: 376px;
     }
     div.robot > div{
@@ -34,8 +34,9 @@
             <div>Information</div>
             <img src="{{ robot.image.url }}">
             <div>
-                <span>{{ robot.name }},{{ robot.year }} years old</span>
+                <span>{{ robot.fname }}{{ robot.lname }},{{ robot.year }} years old</span>
                 <p style="font-size: 20px">Hobby:{{ robot.interest }}</p>
+                <p style="font-size: 20px">Owner: Happy Slackers</p>
                 <p style="font-size: 20px;display: none" id="creator">Creator:{{ robot.creator }}</p>
                 <p style="font-size: 20px;display: none" id="match_number">{{ robot.match_number }}</p>
                 <p type="button" class="btn btn-default btn-lg" onclick="match_robot()"><span class="glyphicon glyphicon-plus"></span>Claim</p>
