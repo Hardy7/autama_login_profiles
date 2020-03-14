@@ -1,10 +1,8 @@
 # -*- coding:utf-8 -*-
-__version__ = '1.0.0.0'
+__version__ = '3.0.3'
 """
-@brief  :   简介
-@details:   详细信息
-@author :   zhphuang
-@date   :   2020-03-04
+@author :   JianqiangHao
+@date   :   2020-03-07
 """
 import sys
 from xlrd import open_workbook # xlrd用于读取xld
